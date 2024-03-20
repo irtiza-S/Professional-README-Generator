@@ -11,8 +11,17 @@
   - [Questions](#questions)
 
 
-  ##Description
-  The Professional README Generator is a command-line tool designed to create a polished README.md file by gathering input from the user. Utilizing the Inquirer node package to present a series of questions to the user regarding their project. Subsequently, the provided responses are used to populate various sections within the README file, including Description, Installation, Usage, Contributing, Tests, License, and Questions. Supporting developers with the following: open-source projects, team collaboration, documentation, code sharing, project showcase, onboarding new developers, and community engagement. It streamlines the process of creating high-quality README files, thereby saving time and ensuring consistency across projects.
+
+
+  ## Description
+  
+  The Professional README Generator is a command-line tool designed to create a polished README.md file by gathering input from the user. Utilizing the Inquirer node package to present a series of questions to the user regarding their project. Subsequently, the provided responses are used to populate various sections within the README file, including Description, Installation, Usage, Contributing, Tests, License, and Questions. Supporting developers with the following: open-source projects, team collaboration, documentation, code sharing, project sh
+
+https://github.com/irtiza-S/Professional-README-Generator/assets/61486852/b3bd457d-c39b-439b-bf01-e76ff1013756
+
+owcase, onboarding new developers, and community engagement. It streamlines the process of creating high-quality README files, thereby saving time and ensuring consistency across projects.
+
+
 
   ## Installation
   1. You need to have Node.Js installed on your computer in order for this application to work - install at the following: https://nodejs.org/en/download.
